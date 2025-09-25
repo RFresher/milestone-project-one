@@ -1,0 +1,25 @@
+/*Css Variables*/
+:root {
+    --primary-font: "Inter", sans-serif;
+    --secondary-font: "Macondo", sans-serif;
+    --primary-color: #c9ada7 ; /* Light muted Brown */
+    --secondary-color: #aa9581; /* light brown */
+    --highlight-color: #416a8e; /* blue */
+
+}
+
+body {
+    background-color: #f2e9e4;
+}
+
+#navbar {
+    background-color: #22223b;
+}
+
+.section {
+    padding-top: 4rem; /*Prevent navbar overlay section headings*/
+}
+
+.sharp-corners {
+    border-radius: 0;
+}
